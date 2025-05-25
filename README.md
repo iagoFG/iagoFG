@@ -1,5 +1,5 @@
 <!-- ## Download -->
-Here some featured direct links:
+Featured direct links:
 <a href="https://github.com/iagoFG/PipePS/blob/main/pipeps.min.php">pipeps.min.php</a>
 <a href="https://raw.githubusercontent.com/iagoFG/PipePS/refs/heads/main/pipeps.min.php">download</a> |
 <a href="https://github.com/iagoFG/matrix43.js/blob/master/matrix43.js">matrix43.js</a>
