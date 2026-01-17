@@ -1,6 +1,5 @@
 <!-- ## Download -->
 Featured direct links:
-https://github.com/iagoFG/url.js/blob/master/src/url.js
 <a href="https://github.com/iagoFG/url.js/blob/master/src/url.js">url.js</a>
 <a href="https://raw.githubusercontent.com/iagoFG/url.js/refs/heads/master/src/url.js">download</a> |
 <a href="https://github.com/iagoFG/PipePS/blob/main/pipeps.min.php">pipeps.min.php</a>
